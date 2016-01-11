@@ -7,7 +7,7 @@ public class Test04 {
 		//add message here.
 		//这里增加注释信息abc
 		
-		System.out.println("变a化okok");
+		System.out.println("变a化12345");
 		int a = 5;
 		System.out.println("好漂亮xyz的风景");
 
