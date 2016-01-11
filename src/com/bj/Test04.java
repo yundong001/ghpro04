@@ -10,7 +10,7 @@ public class Test04 {
 		
 		System.out.println("变化");
 		int a = 2;
-		System.out.println("好漂亮的风景");
+		System.out.println("好漂亮xyz的风景");
 		
 
 	}
