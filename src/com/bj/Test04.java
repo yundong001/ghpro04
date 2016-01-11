@@ -6,7 +6,10 @@ public class Test04 {
 		System.out.println(4);
 		//add message here.
 		//这里增加注释信息
+		
+		
 		System.out.println(6);
+		
 
 	}
 
