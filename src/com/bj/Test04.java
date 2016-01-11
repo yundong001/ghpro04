@@ -8,7 +8,8 @@ public class Test04 {
 		//这里增加注释信息aaa
 		
 		
-		System.out.println("好的");
+		System.out.println("变化");
+		int a = 2;
 		
 
 	}
